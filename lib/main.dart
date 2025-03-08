@@ -54,6 +54,9 @@ class _MyHomePageState extends State<MyHomePage> {
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
+            Image.network(
+              "https://img.freepik.com/vector-gratis/8400-5-205_138676-8173.jpg?t=st=1741445753~exp=1741449353~hmac=127366b7f0e03117625e2957b634793b013ccc2e9ac75b936a3558280fe6b52e&w=740",
+            ),
           ],
         ),
       ),
